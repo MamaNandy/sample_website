@@ -9,4 +9,4 @@ A sample website for Learn Enough HTML to be Dangerous
   <body>
   <p>Adding text - play 1</p>
   </body>
-</html>
+
