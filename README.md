@@ -6,7 +6,7 @@ A sample website for Learn Enough HTML to be Dangerous
 <!DOCTYPE html>
 <html>
   <head>
-    <title><b>Hello World</b></title>
+  <b>Hello World</b>
   </head>
   <body>
   <p>Adding text - play 1</p>
