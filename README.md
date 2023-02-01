@@ -10,3 +10,11 @@ A sample website for Learn Enough HTML to be Dangerous
   <p>Adding text - play 1</p>
   </body>
 
+<html>
+  <head>
+    <title>Learn</title>
+  </head>
+  <body>
+    <Learning html>
+      </body>
+    </html>
